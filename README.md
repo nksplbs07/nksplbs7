@@ -9,11 +9,44 @@ $ whoami
 
 > Name: Niko
 > Age: 19
-> Informatics Student
 
-$ cat core_directives.txt
 
-> Passionate about programming.
-> Learning Flutter and modern web technologies.
-> Interested in AI and software development.
-> Always learning new technologies.
+## 💻 About Me
+```text
+$ whoami
+
+- Name: Niko Saputra Lubis
+- Age: 19
+- 🎓 Informatics student at ST BHINNEKA University
+- 📱 Flutter Developer
+- 💻 Learning Python, C++, JavaScript
+- 🚀 Interested in Technology
+- 🌱 Always learning something new
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📊 My GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contact Me
+
+Instagram: @username  
+Email: email@example.com
+
+
+
